@@ -1,0 +1,13 @@
+1. git --version
+2. git init
+3. git status
+4. git help
+5. git branch
+6. git branch -m main
+7. git diff
+8. git add .
+9. git commit -m "message"
+10. git log
+11. git remote add origin url
+12. git push -u origin main
+13. git pull url
